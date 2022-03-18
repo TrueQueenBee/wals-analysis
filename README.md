@@ -1,6 +1,6 @@
 # World Atlas of Language Structures
 Author: Cassandra Rudig\
-Date: 3/18/2022\
+Date: 3/18/2022
 
 The purpose of this visualization is to examine the world's language families and
 see if we can find any interesting trends among families using their typology data.
