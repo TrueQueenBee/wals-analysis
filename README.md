@@ -1,4 +1,4 @@
-# World Atlas of Language Structures
+# World Atlas of Language Structures Analysis
 Author: Cassandra Rudig\
 Date: 3/18/2022
 
@@ -21,7 +21,7 @@ The "likeness" chart was an attempt to be able to see if one language family cou
 I also would have liked to add more interactivity via clicking data points with the mouse. I managed to do this for the world map, but it would have been interesting to do a similar thing for the likeness chart (to show what language a given point corresponds to), and for the bar chart (to show what languages within the chosen family exemplify the selected value).
 
 Citations:
-Dryer, Matthew S. & Haspelmath, Martin (eds.) 2013.
-The World Atlas of Language Structures Online.
-Leipzig: Max Planck Institute for Evolutionary Anthropology.
-Available online at http://wals.info, Accessed on 2022-03-10.
+Dryer, Matthew S. & Haspelmath, Martin (eds.) 2013.\
+  The World Atlas of Language Structures Online.\
+  Leipzig: Max Planck Institute for Evolutionary Anthropology.\
+  Available online at http://wals.info, Accessed on 2022-03-10.
